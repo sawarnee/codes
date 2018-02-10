@@ -28,7 +28,9 @@ class Solution {
 			}
 		}
         
-        return counter;        
+        return counter;   
+	
+	//this is a comment again.     
         
     }
 
